@@ -6,7 +6,7 @@ body{
 }
 
 .container{
-    width: 40%;
+    max-width: 25rem;
     margin: auto;
     display: flex;
     padding: 1vh;
@@ -38,7 +38,7 @@ button{
     text-align: center;
 }
 
-table{
+.four table{
     border-collapse: collapse;
 }
 th{
